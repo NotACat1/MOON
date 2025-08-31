@@ -166,7 +166,6 @@ instance/
 docs/_build/
 
 # Configuration files (except example configs)
-config/settings.py
 config/credentials.py
 config/secrets.py
 config/*.env
